@@ -22,7 +22,7 @@
       <file leaf-file-name="RateService.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bell-app-persistance/src/main/java/com/sheensoft/persistance/service/RateService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
+            <state relative-caret-position="525">
               <caret line="52" selection-start-line="52" selection-end-line="52" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -34,7 +34,7 @@
       <file leaf-file-name="MainController.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bell-app-web/src/main/java/com/sheensoft/web/controllers/MainController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
+            <state relative-caret-position="285">
               <caret line="34" column="27" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -46,7 +46,7 @@
       <file leaf-file-name="SecurityConfig.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bell-app-web/src/main/java/com/sheensoft/web/security/SecurityConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
+            <state relative-caret-position="312">
               <caret line="46" column="71" selection-start-line="46" selection-start-column="58" selection-end-line="46" selection-end-column="71" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -58,7 +58,7 @@
       <file leaf-file-name="RestAuthFailureHandler.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bell-app-web/src/main/java/com/sheensoft/web/security/RestAuthFailureHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
+            <state relative-caret-position="75">
               <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -70,7 +70,7 @@
       <file leaf-file-name="RestAuthSuccessHandler.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bell-app-web/src/main/java/com/sheensoft/web/security/RestAuthSuccessHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
+            <state relative-caret-position="75">
               <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -82,7 +82,7 @@
       <file leaf-file-name="RestAuthEntryPoint.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bell-app-web/src/main/java/com/sheensoft/web/security/RestAuthEntryPoint.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
+            <state relative-caret-position="75">
               <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -112,18 +112,10 @@
       <file leaf-file-name="RateId.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bell-app-domain/src/main/java/com/sheensoft/domain/RateId.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-36">
+            <state relative-caret-position="135">
               <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#405#406#0" expanded="true" />
-                <element signature="e#440#441#0" expanded="true" />
-                <element signature="e#496#497#0" expanded="true" />
-                <element signature="e#544#545#0" expanded="true" />
-                <element signature="e#581#582#0" expanded="true" />
-                <element signature="e#614#615#0" expanded="true" />
-                <element signature="e#666#667#0" expanded="true" />
-                <element signature="e#710#711#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -139,6 +131,9 @@
         <option value="JUnit4 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -218,11 +213,13 @@
     <option name="width" value="1280" />
     <option name="height" value="732" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -304,7 +301,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
@@ -486,7 +482,16 @@
       <workItem from="1523301279862" duration="1014000" />
       <workItem from="1523302440059" duration="18388000" />
       <workItem from="1523326290819" duration="9789000" />
+      <workItem from="1523390484402" duration="212000" />
     </task>
+    <task id="LOCAL-00001" summary="mi first commit">
+      <created>1523390586677</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1523390586677</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -522,7 +527,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38803000" />
+    <option name="totallyTimeSpent" value="39015000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="732" extended-state="0" />
@@ -539,12 +544,11 @@
       <window_info id="UI Designer" order="4" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39817628" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.32876712" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="bottom" id="Java Enterprise" order="10" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32522798" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
@@ -556,6 +560,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32876712" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -566,6 +571,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="mi first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="mi first commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -825,10 +834,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="78">
           <caret line="46" selection-start-line="46" selection-end-line="46" />
-          <folding>
-            <element signature="e#1464#1658#0" expanded="true" />
-            <element signature="e#1657#1658#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -850,27 +855,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="248">
           <caret line="295" selection-start-line="295" selection-end-line="295" />
-          <folding>
-            <element signature="e#2922#2923#0" expanded="true" />
-            <element signature="e#2966#2967#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bell-app-domain/src/main/java/com/sheensoft/domain/RateId.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-36">
+        <state relative-caret-position="135">
           <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#405#406#0" expanded="true" />
-            <element signature="e#440#441#0" expanded="true" />
-            <element signature="e#496#497#0" expanded="true" />
-            <element signature="e#544#545#0" expanded="true" />
-            <element signature="e#581#582#0" expanded="true" />
-            <element signature="e#614#615#0" expanded="true" />
-            <element signature="e#666#667#0" expanded="true" />
-            <element signature="e#710#711#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -891,7 +884,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bell-app-persistance/src/main/java/com/sheensoft/persistance/service/RateService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
+        <state relative-caret-position="525">
           <caret line="52" selection-start-line="52" selection-end-line="52" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -901,7 +894,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bell-app-web/src/main/java/com/sheensoft/web/security/RestAuthEntryPoint.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state relative-caret-position="75">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -911,7 +904,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bell-app-web/src/main/java/com/sheensoft/web/security/RestAuthSuccessHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state relative-caret-position="75">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -921,7 +914,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bell-app-web/src/main/java/com/sheensoft/web/security/RestAuthFailureHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state relative-caret-position="75">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -931,7 +924,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bell-app-web/src/main/java/com/sheensoft/web/controllers/MainController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
+        <state relative-caret-position="285">
           <caret line="34" column="27" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -943,16 +936,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="433" column="46" selection-start-line="433" selection-start-column="46" selection-end-line="433" selection-end-column="46" />
-          <folding>
-            <element signature="e#15689#15690#0" expanded="true" />
-            <element signature="e#15726#15727#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bell-app-web/src/main/java/com/sheensoft/web/security/SecurityConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
+        <state relative-caret-position="312">
           <caret line="46" column="71" selection-start-line="46" selection-start-column="58" selection-end-line="46" selection-end-column="71" />
           <folding>
             <element signature="imports" expanded="true" />
