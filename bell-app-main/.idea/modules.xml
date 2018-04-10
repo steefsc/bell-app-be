@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bell-app-main.iml" filepath="$PROJECT_DIR$/bell-app-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bell-app-domain/bellappdomain.iml" filepath="$PROJECT_DIR$/bell-app-domain/bellappdomain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bell-app-persistance/bellapppersistance.iml" filepath="$PROJECT_DIR$/bell-app-persistance/bellapppersistance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bell-app-web/bellappweb.iml" filepath="$PROJECT_DIR$/bell-app-web/bellappweb.iml" />
+    </modules>
+  </component>
+</project>

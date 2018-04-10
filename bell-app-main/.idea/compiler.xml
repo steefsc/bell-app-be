@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="bellappdomain" />
+        <module name="bellapppersistance" />
+        <module name="bellappweb" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bell-app-main" target="1.8" />
+      <module name="bellappdomain" target="1.8" />
+      <module name="bellapppersistance" target="1.8" />
+      <module name="bellappweb" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
